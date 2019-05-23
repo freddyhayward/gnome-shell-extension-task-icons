@@ -3,7 +3,7 @@
   "uuid": "taskicons@tttom64.github.com",
   "description": "Add task icons grouped by workspace to the panel, forked from rliang",
   "url": "https://github.com/tttom64/gnome-shell-extension-task-icons",
-  "settings-schema": "org.gnome.shell.extensions.taskicons",
+  "settings-schema": "org.gnome.shell.extensions.taskicons-tttom64",
   "shell-version": ["3.32"]
 }
 
