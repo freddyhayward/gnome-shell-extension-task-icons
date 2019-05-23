@@ -1,5 +1,5 @@
 <schemalist>
-  <schema id="org.gnome.shell.extensions.taskicons" path="/org/gnome/shell/extensions/taskicons/">
+  <schema id="org.gnome.shell.extensions.taskicons-tttom64" path="/org/gnome/shell/extensions/taskicons-tttom64/">
     <key name="show-workspace-numbers" type="b">
       <default>true</default>
       <summary>Show Workspace Numbers</summary>
